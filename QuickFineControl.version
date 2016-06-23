@@ -1,0 +1,27 @@
+{
+	"NAME"				: "QuickFineControl",
+	"URL"				: "https://raw.githubusercontent.com/malahx/QuickFineControl/master/QuickFineControl.version",
+	"CHANGE_LOG_URL"	: "https://raw.githubusercontent.com/malahx/QuickFineControl/master/README.md", 
+	"DOWNLOAD"			: "https://github.com/malahx/QuickFineControl/releases",
+	"VERSION": {
+		"MAJOR"			: 1,
+		"MINOR"			: 0,
+		"PATCH"			: 0,
+		"BUILD"			: 0
+	},
+    "KSP_VERSION": {
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 3
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 0
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 99
+    }
+}
