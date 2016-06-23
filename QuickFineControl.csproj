@@ -64,5 +64,6 @@
     <None Include="GameData\QuickFineControl\QuickFineControl.version" />
     <None Include="GameData\QuickFineControl\README.md" />
     <None Include="GameData\QuickFineControl\Plugins\QuickFineControl.dll" />
+    <None Include="COPYING" />
   </ItemGroup>
 </Project>
