@@ -34,7 +34,6 @@ namespace QuickFineControl {
 				return;
 			}
 			FlightInputHandler.fetch.precisionMode = true;
-			GameEvents.Input.OnPrecisionModeToggle.Fire (true);
 			Debug.Log ("QuickFineControl: Set FineControl to true");
 		}
 

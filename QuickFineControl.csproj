@@ -43,20 +43,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <Reference Include="Assembly-CSharp">
-      <HintPath>..\lib\Managed\Assembly-CSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="KSPUtil">
-      <HintPath>..\lib\Managed\KSPUtil.dll</HintPath>
-    </Reference>
-    <Reference Include="System">
-      <HintPath>..\lib\Managed\System.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine">
-      <HintPath>..\lib\Managed\UnityEngine.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="install.sh" />
     <None Include="QuickFineControl.version" />
     <None Include="README.md" />
@@ -65,5 +51,13 @@
     <None Include="GameData\QuickFineControl\README.md" />
     <None Include="GameData\QuickFineControl\Plugins\QuickFineControl.dll" />
     <None Include="COPYING" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\lib\1.0.5.1028 OLD\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\lib\1.0.5.1028 OLD\UnityEngine.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
