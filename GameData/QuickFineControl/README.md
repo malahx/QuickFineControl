@@ -34,6 +34,9 @@ Delete the QuickFineControl folder in your KSP/GameData folder.
 
 #### Changelog
 
+v1.02 - 2016.10.15
+* Compiled against KSP 1.2.0.1586
+
 v1.01 - 2016.09.14
 * Fix: Deleted useless libraries,
 * Compiled against KSP 1.2.0.1473
